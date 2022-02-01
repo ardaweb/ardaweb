@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm ARDA-BOTZ 👩‍💻 </h1>
 
 
-  <audio autoplay="autoplay" hidden="hidden" src="https://b.top4top.io/m_1889nvfeu8.mp3"></audio>
+
 <p align='center'>
         <img src="https://avatarfiles.alphacoders.com/108/thumb-108886.gif" alt="ArdaStore" width="150" class="rounded-circle img-thumbnail" />
         <br>
@@ -9,20 +9,6 @@
   <a href="https://github.com/ardastore"><img src="https://cardivo.vercel.app/api?name=ARDA-STORE&description=Hai%20Saya%20Adalah%20Seorang%20Pelajar%20Mahasiswa%20Tujuan%20Saya%20Untuk%20Menguasai%20DataBase%20Project%20Whatsapp%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ardasaha10&github=ArdaStore&pattern=leaf&colorPattern=%23eaeaea" /><a>
   <a href="https://github.com/ardastore"><img src="https://cardivo.vercel.app/api?name=Dia&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
-
-
-<p align="center">
-<p align="center">
-<a href="#"><img title="ARDA STORE" src="https://img.shields.io/badge/ArdaStore-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-<br>
-<!---img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fardastore" alt="PENGGUNJUNG GITHUB"-->
-<p align='center'>
-  <a href="https://github.com/ardastore"><img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me//6282363250061"><img src="https://img.shields.io/badge/whatsApp%20-%23339933.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://Instagram.com/ardasaha10"><img src="https://img.shields.io/badge/Instagram%20-%23cc6699.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
-
 ___
 
 
