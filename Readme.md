@@ -1,15 +1,12 @@
-<h1 align='center'> Hi there 👋, I'm FERDIZ-afk  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm ARDA-BOTZ 👩‍💻 </h1>
 
-<p align='center'>
-  I come from <b>Indonesia</b> I like a food called <b>meatball</b> 
-</p>
 
   <audio autoplay="autoplay" hidden="hidden" src="https://b.top4top.io/m_1889nvfeu8.mp3"></audio>
 <p align='center'>
-        <img src="https://avatarfiles.alphacoders.com/108/thumb-108886.gif" alt="FERDI Z-AFK" width="150" class="rounded-circle img-thumbnail" />
+        <img src="https://avatarfiles.alphacoders.com/108/thumb-108886.gif" alt="ArdaStore" width="150" class="rounded-circle img-thumbnail" />
         <br>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=FERDIZ-afk.FERDIZ-afk??style=for-the-badge&logo=appveyor"></a><br>
-  <a href="https://github.com/ardastore"><img src="https://cardivo.vercel.app/api?name=FERDIZ-AFK&description=Hai,%20saya%20FERDI%20dan%20saya%20hanya%20seorang%20programmer%20pemula.%20dan%20saya%20tidak%20punya%20seorang%20teman,saya%20sangat%20sedih.%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ferdiz_afk&github=FERDIZ-afk&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=ardaweb.ardaweb??style=for-the-badge&logo=appveyor"></a><br>
+  <a href="https://github.com/ardastore"><img src="https://cardivo.vercel.app/api?name=ARDA-STORE&description=Hai%20Saya%20Adalah%20Seorang%20Pelajar%20Mahasiswa%20Tujuan%20Saya%20Untuk%20Menguasai%20DataBase%20Project%20Whatsapp%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ardasaha10&github=ArdaStore&pattern=leaf&colorPattern=%23eaeaea" /><a>
   <a href="https://github.com/ardastore"><img src="https://cardivo.vercel.app/api?name=Dia&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
 
@@ -21,8 +18,8 @@
 <!---img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fardastore" alt="PENGGUNJUNG GITHUB"-->
 <p align='center'>
   <a href="https://github.com/ardastore"><img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me//6287877173955"><img src="https://img.shields.io/badge/whatsApp%20-%23339933.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://Instagram.com/ferdiz_afk"><img src="https://img.shields.io/badge/Instagram%20-%23cc6699.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me//6282363250061"><img src="https://img.shields.io/badge/whatsApp%20-%23339933.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://Instagram.com/ardasaha10"><img src="https://img.shields.io/badge/Instagram%20-%23cc6699.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -41,13 +38,13 @@ ___
 - ⚡ Fun fact: ...
 
 <p align="center">
-<!--a href="https://ferdiz-api.herokuapp.com/"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FERDIZ afk-orange.svg?style=for-the-badge&logo=github"></a-->
+<!--a href="https://ferdiz-api.herokuapp.com/"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARDAorange.svg?style=for-the-badge&logo=github"></a-->
 </p>
 
 <h3>Languages skill :</h3>
 <br>
-<!--p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=FERDIZ-afk&show_icons=true&locale=en&layout=compact&theme=radical" alt="FERDIZ-afk" /></p-->
-<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=FERDIZ-afk&show_icons=true&theme=radical" alt="FERDIZ-afk" /></p>
+<!--p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaweb&show_icons=true&locale=en&layout=compact&theme=radical" alt="FERDIZ-afk" /></p-->
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaweb&show_icons=true&theme=radical" alt="ardaweb" /></p>
 
 <p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=FERDIZ-afk&show_icons=true&locale=en&theme=radical" alt="FERDIZ-afk" /></p>
 
