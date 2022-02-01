@@ -37,22 +37,6 @@ ___
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center">
-<!--a href="https://ferdiz-api.herokuapp.com/"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARDAorange.svg?style=for-the-badge&logo=github"></a-->
-</p>
-
-<h3>Languages skill :</h3>
-<br>
-<!--p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaweb&show_icons=true&locale=en&layout=compact&theme=radical" alt="FERDIZ-afk" /></p-->
-<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaweb&show_icons=true&theme=radical" alt="ardaweb" /></p>
-
-<p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=FERDIZ-afk&show_icons=true&locale=en&theme=radical" alt="FERDIZ-afk" /></p>
-
-# Donate
-<p align="center" width=100%><img src="https://svgur.com/i/Vtt.svg">
-
-</p>
-<ul><li><a href="https://saweria.co/Ferdizafk">Saweria</a><li><a href="https://link.dana.id/qr/26sifccg">DANA</a></li><li><a href="https://trakteer.id/FERDIZ-AFK/tip">Trakteer</a></li></ul>
 
 
 
