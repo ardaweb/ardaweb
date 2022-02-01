@@ -9,7 +9,7 @@
 
 
 
-<a href="https://github.com/ardastore"><img src="https://cardivo.vercel.app/api?name=ARDA-STORE&description=Hai%20Saya%20Adalah%20Seorang%20Pelajar%20Mahasiswa%20Tujuan%20Saya%20Untuk%20Menguasai%20DataBase%20Project%20Whatsapp%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://i.ibb.co/DWvz6SY/20220108-131115.jpg&usqp=CAU&backgroundColor=%23ffffff&youtube=ardasaha&github=ArdaStore&pattern=leaf&colorPattern=%23ffffff" /><a>
+<a href="https://github.com/ardastore"><img src="https://cardivo.vercel.app/api?name=ARDA-STORE&description=Hai%20Saya%20Adalah%20Seorang%20Pelajar%20Mahasiswa%20Tujuan%20Saya%20Untuk%20Menguasai%20DataBase%20Project%20Whatsapp%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://i.ibb.co/DWvz6SY/20220108-131115.jpg&usqp=CAU&backgroundColor=%23ffffff&instagram=ardasaha&github=ArdaStore&pattern=leaf&colorPattern=%23ffffff" /><a>
 </p>
 
 
