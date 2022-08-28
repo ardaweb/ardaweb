@@ -60,7 +60,10 @@ Intro = {
 <summary><b><i>HELP ME DONATE</i></b></summary>
 <p align="center" width=100%><img src="https://svgur.com/i/Vtt.svg">
 </p>
-<ul><li><a href="https://saweria.co/Ferdizafk">Saweria</a><li><a href="https://link.dana.id/qr/26sifccg">DANA</a></li><li><a href="https://trakteer.id/FERDIZ-AFK/tip">Trakteer</a></li></ul>
+<a href="https://trakteer.id/Ardastore/tip">Trakteer</a></li></ul>
+
+
+
 </details>
 
 
